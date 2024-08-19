@@ -351,8 +351,8 @@ configs:
       url: https://github.com/TheAutomationRules
     github-portfolio-private:
       url: https://github.com/jrosadob-portfolio
-      password: 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
-      username: jrosadob
+    # password: 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
+    # username: jrosadob
     # github-enterprise-creds-1:
     #   url: https://github.com/argoproj
     #   githubAppID: 1
@@ -389,8 +389,8 @@ configs:
     jrosadob-portfolio-bidea:
       url: https://github.com/jrosadob-portfolio/bidea
       name: jrosadob-portfolio-bidea
-      password: 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
-      username: jrosadob
+    # password: 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
+    # username: jrosadob
     # istio-helm-repo:
     #   url: https://storage.googleapis.com/istio-prerelease/daily-build/master-latest-daily/charts
     #   name: istio.io
