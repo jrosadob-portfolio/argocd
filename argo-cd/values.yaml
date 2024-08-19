@@ -389,7 +389,7 @@ configs:
     jrosadob-portfolio-bidea:
       url: https://github.com/jrosadob-portfolio/bidea
       name: jrosadob-portfolio-bidea
-    # password: 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
+    # password: XXX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
     # username: jrosadob
     # istio-helm-repo:
     #   url: https://storage.googleapis.com/istio-prerelease/daily-build/master-latest-daily/charts
